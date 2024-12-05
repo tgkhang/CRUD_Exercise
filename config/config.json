@@ -20,10 +20,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "ttbhanh",
-    "password": "5u89vX7AhNbF2hmIFrOitKoTcAA0HV3N",
-    "database": "tuandb",
-    "host": "dpg-clfb5a7jc5ks73e5n3n0-a.oregon-postgres.render.com",
+    "username": "admin",
+    "password": "YEnvs9t9DmxKVThwENwXZnNdDcmomcPi",
+    "database": "crud_jzxf",
+    "host": "dpg-ct8t1jlds78s73cgn4eg-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
