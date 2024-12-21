@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "admin",
-    "password": "YEnvs9t9DmxKVThwENwXZnNdDcmomcPi",
-    "database": "crud_jzxf",
-    "host": "dpg-ct8t1jlds78s73cgn4eg-a.singapore-postgres.render.com",
+    "username": "eshop_ije1_user",
+    "password": "S00EPUSGCyDoNDLUjf4TYH7im6penEN3",
+    "database": "eshop_ije1",
+    "host": "dpg-ctj9hptumphs73f99ti0-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
@@ -20,10 +20,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "admin",
-    "password": "YEnvs9t9DmxKVThwENwXZnNdDcmomcPi",
-    "database": "crud_jzxf",
-    "host": "dpg-ct8t1jlds78s73cgn4eg-a.singapore-postgres.render.com",
+    "username": "eshop_ije1_user",
+    "password": "S00EPUSGCyDoNDLUjf4TYH7im6penEN3",
+    "database": "eshop_ije1",
+    "host": "dpg-ctj9hptumphs73f99ti0-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
